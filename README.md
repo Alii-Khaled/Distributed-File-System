@@ -1,5 +1,5 @@
-# OS_Projects
-Distributed file system simulation using python/pyZMQ
+
+# Distributed file system simulation using python/pyZMQ
 
 Made by
 Mohamed Ahmed Ibrahim,
